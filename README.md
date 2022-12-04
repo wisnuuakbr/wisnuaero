@@ -2,13 +2,10 @@
 <h3 align="center">An software developer</h3>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel, Golang**
-
+- 🌱 I’m currently learning **Laravel**
 - 💬 Ask me about **Music, Coding**
-
 - 📫 How to reach me **wisnuaero3@gmail.com**
-
-- ⚡ Fun fact **I'am cute** 
+- ⚡ Fun fact **I'am childish lol** 
 
 <picture>
 <source 
