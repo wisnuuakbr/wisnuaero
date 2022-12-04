@@ -32,8 +32,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wisnuaero&show_icons=true&theme=tokyonight"
-  media="(prefers-color-scheme: dark)" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wisnuaero&show_icons=true&theme=tokyonight&locale=en&layout=compact"&locale=en" alt="wisnuaero" height="150" />
   <img src="https://streak-stats.demolab.com?user=wisnuaero&theme=tokyonight" height="150"/>
 </div>
 
@@ -46,6 +45,7 @@
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wisnuaero&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="wisnuaero" />
 </div>
+
 
 ###
 
