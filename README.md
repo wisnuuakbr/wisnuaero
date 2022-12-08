@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wisnu Akbara</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">, I'm Wisnu Akbara</h1>
 <h3 align="center">A software developer</h3>
 
 ###
