@@ -68,6 +68,6 @@
 
 ###
 
-![snake dark gif](https://github.com/wisnuaero/wisnuaero/blob/output/github-contribution-grid-snake.gif)
+![snake dark gif](https://github.com/wisnuaero/wisnuaero/blob/output/github-contribution-grid-snake.svg)
 
 ###
