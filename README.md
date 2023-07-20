@@ -60,7 +60,7 @@
     <a href="https://www.instagram.com/wisnuuakbr_/">
       <img src="https://img.shields.io/badge/Instagram-C0007A?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
-    <a href="mailto:wisnuuakbr@gmail.com">
+    <a href="mailto:wisnuaero3@gmail.com@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
