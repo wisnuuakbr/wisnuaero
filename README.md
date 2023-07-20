@@ -32,8 +32,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wisnuaero&show_icons=true&theme=tokyonight&locale=en&layout=compact"&locale=en" alt="wisnuaero" height="150" />
-  <img src="https://streak-stats.demolab.com?user=wisnuaero&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=wisnuuakbr&show_icons=true&theme=tokyonight&locale=en&layout=compact"&locale=en" alt="wisnuuakbr" height="150" />
+  <img src="https://streak-stats.demolab.com?user=wisnuuakbr&theme=tokyonight" height="150"/>
 </div>
 
 ###
@@ -43,7 +43,7 @@
 ###
 
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wisnuaero&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="wisnuaero" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wisnuuakbr&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="wisnuuakbr" />
 </div>
 
 ###
@@ -60,7 +60,7 @@
     <a href="https://www.instagram.com/wisnuuakbr_/">
       <img src="https://img.shields.io/badge/Instagram-C0007A?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
-    <a href="mailto:wisnuaero3@gmail.com">
+    <a href="mailto:wisnuuakbr@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
@@ -72,6 +72,6 @@
                   
 ###
 
-![snake gif](https://github.com/wisnuaero/wisnuaero/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/wisnuuakbr/wisnuuakbr/blob/output/github-contribution-grid-snake.svg)
 
 ###
