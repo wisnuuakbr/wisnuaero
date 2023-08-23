@@ -13,7 +13,7 @@
 
 ###
 
-<p align="center">🤖I Love Learning About Code.<br>💻I Like Learning About New Technologies.<br>🤝I Am Open To Work With All Especially Web Apps Projects Or Things I Have Yet To Learn.</p>
+<p align="center">💻I Like Learning About New Technologies.<br>🤝I Am Open To Work With All Especially Web Apps Projects Or Things I Have Yet To Learn.</p>
 
 ###
 
@@ -65,13 +65,5 @@
     </a>
   </p>
 </div>
-
-###
-                                                                                                         
-<h2 align="center">Look! My Contribution Graph Eaten By Snake</h2>
-                  
-###
-
-![snake gif](https://github.com/wisnuuakbr/wisnuuakbr/blob/output/github-contribution-grid-snake.svg)
 
 ###
