@@ -72,6 +72,6 @@
                   
 ###
 
-![snake gif](https://github.com/wisnuuakbr/wisnuaero/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/wisnuuakbr/wisnuuakbr/blob/output/github-contribution-grid-snake.svg)
 
 ###
