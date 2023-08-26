@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">, I'm Wisnu Akbara</h1>
-<h3 align="center">a Software Engineer</h3>
+<h3 align="center">a Tech Enthusiast</h3>
 
 ###
 
@@ -27,26 +27,7 @@
 
 ###
 
-<h2 align="center">My Stats</h2>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wisnuuakbr&show_icons=true&theme=tokyonight&locale=en&layout=compact"&locale=en" alt="wisnuuakbr" height="150" />
-  <img src="https://streak-stats.demolab.com?user=wisnuuakbr&theme=tokyonight" height="150"/>
-</div>
-
-###
-
-<h2 align="center">Most Used Languages</h2>
-
-###
-
-<div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wisnuuakbr&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="wisnuuakbr" />
-</div>
-
-###
 
 <h2 align="center">Catch Me On</h2>
 
