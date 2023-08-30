@@ -13,7 +13,7 @@
 
 ###
 
-<p align="center">💻Passionate About Exploring New Technologies.<br>🤝Enthusiastic About Collaborating on Web App Projects and Eager to Embrace Unfamiliar Territories in Learning.</p>
+<p align="center">💻Enthusiastic About Exploring New Technologies.<br>🤝Enthusiastic About Collaborating on Web App Projects and Eager to Embrace Unfamiliar Territories in Learning.</p>
 
 ###
 
