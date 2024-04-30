@@ -1,5 +1,5 @@
 <h1 align="center">Wisnu Akbara</h1>
-<h3 align="center">Tech Enthusiast | Backend Engineer | Frontend Engineer</h3>
+<h3 align="center">Tech Enthusiast | Backend Engineer
 
 ###
 
