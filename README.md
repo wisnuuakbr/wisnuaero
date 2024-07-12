@@ -17,17 +17,17 @@
 
 ###
 
+<!--
 <h2 align="center">Languages and Tools</h2>
 
 ###
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,css,html,react,express,laravel,js,ts,nodejs,go,php,mysql,mongodb,postgres,postman,git,github,docker&theme=dark&perline=20" />
   </a>
 </p>
-
 ###
+-->
 
 
 
