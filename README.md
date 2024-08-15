@@ -1,5 +1,5 @@
 <h1 align="center">Wisnu Akbara</h1>
-<h3 align="center">Tech Enthusiast | Backend Engineer
+<h3 align="center">an Ordinary Programmer
 
 ###
 
